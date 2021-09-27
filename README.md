@@ -7,3 +7,5 @@ curl -o ~/.oh-my-zsh/themes/twoLine.zsh-theme https://raw.githubusercontent.com/
 sed -i -e 's/ZSH_THEME="robbyrussell"/ZSH_THEME="twoLine"/g' ~/.zshrc
 source ~/.zshrc
 ```
+
+https://medium.com/buildit/5-simple-tips-to-speed-up-your-development-environment-5a115290f5a1
